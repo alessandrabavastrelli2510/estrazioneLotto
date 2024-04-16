@@ -62,4 +62,7 @@ public class EstrazioneDelLotto {
             Thread.currentThread().interrupt();
         }
     }
+    public void temp(){
+        
+    }
 }
